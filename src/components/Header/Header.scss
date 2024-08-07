@@ -1,0 +1,25 @@
+.Header {
+  padding: 1rem 2rem;
+  margin-bottom: 1rem;
+  background: linear-gradient(135deg, #0ab9cf, #7535e7 );
+  box-shadow: 5px 1px 10px 5px #ececec;
+  color: #fff;
+}
+
+.Header_content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  img {
+    width: 40px;
+    margin-right: 10px;
+  }
+}
+
+.Header_logo {
+  font-weight: 700;
+}
+.print_color{
+  background: #fff;
+  border-radius: 10px;
+}

@@ -1,0 +1,44 @@
+@import "./text-helper.scss";
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Open+Sans:wght@400;700&family=Lora:wght@400;700&family=Montserrat:wght@400;700&family=Raleway:wght@400;700&family=Nunito:wght@400;700&family=Playfair+Display:wght@400;700&family=Poppins:wght@400;700&display=swap");
+
+.ui-body,
+.ui-html {
+  font-family: "Inconsolata", Montserrat, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif,
+    "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+input[type="range"] {
+  width: 97%;
+  height: 6px;
+  margin: 0 0.4rem;
+  overflow: hidden;
+  cursor: pointer;
+  -webkit-appearance: none;
+  appearance: none;
+
+  &::-webkit-slider-runnable-track {
+    background-color: #ddd;
+  }
+
+  &::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 20px;
+    height: 40px;
+    background: dodgerblue;
+    box-shadow: -100vw 0 0 100vw dodgerblue;
+    border: 1px solid #999;
+  }
+}
+@media print {
+  .ui-text.isPrimary {
+    color: #1890ff;
+  }
+
+  .ui-text.isSecondary {
+    color: #939394;
+  }
+  .ui-html {
+    line-height: 1.6rem;
+  }
+}

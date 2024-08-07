@@ -1,0 +1,17 @@
+.ui-title-1,
+.ui-title-2,
+.ui-title-3,
+.ui-title-5,
+.ui-title-5,
+.ui-text {
+    padding: 0 0.4rem;
+    transition: 0.4s all ease;
+    &:focus {
+        background-color: #d1d0d068;
+        border-radius: 5px;
+    }
+}
+
+.isUppercase {
+    text-transform: uppercase;
+}
