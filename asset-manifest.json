@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Dilshod7077/cv-builder/static/css/main.d7a96194.css",
+    "main.js": "/Dilshod7077/cv-builder/static/js/main.c67ec184.js",
+    "static/media/CV.png": "/Dilshod7077/cv-builder/static/media/CV.a726e15934946addbdd7.png",
+    "static/media/github.svg": "/Dilshod7077/cv-builder/static/media/github.24b8d1ec1ab3699d758c6316d1a98dbb.svg",
+    "index.html": "/Dilshod7077/cv-builder/index.html",
+    "static/media/swap.svg": "/Dilshod7077/cv-builder/static/media/swap.0695e0022f6a78ee5d8a56ff70968c86.svg",
+    "static/media/phone.svg": "/Dilshod7077/cv-builder/static/media/phone.eec9c518e05c1d67186bc92a3d771873.svg",
+    "static/media/print.svg": "/Dilshod7077/cv-builder/static/media/print.7c1a5608cb943ae005ca8c3f2890e9e8.svg",
+    "static/media/mail.svg": "/Dilshod7077/cv-builder/static/media/mail.d8309d70585733120c3c55d13696923f.svg",
+    "static/media/camera.svg": "/Dilshod7077/cv-builder/static/media/camera.315e2be4660a8bef16d2b92459ee8651.svg",
+    "static/media/delete.svg": "/Dilshod7077/cv-builder/static/media/delete.1f538c00730311a7fd25a451d5ea3b9f.svg",
+    "main.d7a96194.css.map": "/Dilshod7077/cv-builder/static/css/main.d7a96194.css.map",
+    "main.c67ec184.js.map": "/Dilshod7077/cv-builder/static/js/main.c67ec184.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7a96194.css",
+    "static/js/main.c67ec184.js"
+  ]
+}
